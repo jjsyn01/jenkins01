@@ -12,7 +12,7 @@ public class SampleAction {
     /**
      * First name of the user.
      */
-    private String firstName;
+    //private String firstName;
     /**
      * Last name of the user.
      */
